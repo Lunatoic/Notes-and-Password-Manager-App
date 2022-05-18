@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401487497656",
+    "project_id": "thoughtvaultx",
+    "storage_bucket": "thoughtvaultx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401487497656:android:c85f003e4fa4d0e0a2674d",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401487497656-et32l0i4r4l058h762mtuha2tq2rbjr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3TP_s3ywgPSsbMEqxM0iKHhiZ6QWe00w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401487497656-et32l0i4r4l058h762mtuha2tq2rbjr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
